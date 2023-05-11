@@ -2,6 +2,7 @@
 Es un test para contar cuántos elementos existen que tienen una edad igual a 32, escribir los valores de dichos elementos en un archivo y al final generar el hash SHA1 del archivo.
 
 # Como ejecutar
+* Existe un archivo llamado "run.sh" que utiliza una imagen de nodejs para correr el script lo que debemos hacer es lo siguiente
 * Primero dar permiso al archivo "run.sh"
 ```bash
 chmod +x ./run.sh
